@@ -1,5 +1,4 @@
 import inspect
-import typing
 
 def checkargs(function):
     def _f(*arguments):
